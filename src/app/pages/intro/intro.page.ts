@@ -22,7 +22,7 @@ export class IntroPage implements OnInit {
   pages = [
     {
       title: 'Integrantes',
-      text: 'Domingo Munoz, Nicolas Avila',
+      text: 'Domingo Munoz, Nicolas Avila, Tomas Delgado',
       img: './assets/imgs/intro1.png',
     },
   ];
